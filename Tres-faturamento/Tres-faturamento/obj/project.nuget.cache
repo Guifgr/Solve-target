@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SalQExzhHXi7n2MlQa8lOXLAoSGTdhpGvByZciUhlamnzOxvoZd04+s3lU0UQW+8R72Ia+opr/WkheWAnIqgRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guifg\\OneDrive\\Documentos\\GitHub\\Tres-faturamento\\Tres-faturamento\\Tres-faturamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guifg\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

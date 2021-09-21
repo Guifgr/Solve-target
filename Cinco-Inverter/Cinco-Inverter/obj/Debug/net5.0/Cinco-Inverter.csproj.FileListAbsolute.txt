@@ -1,0 +1,16 @@
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\Cinco-Inverter.exe
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\Cinco-Inverter.deps.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\Cinco-Inverter.runtimeconfig.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\Cinco-Inverter.runtimeconfig.dev.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\Cinco-Inverter.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\ref\Cinco-Inverter.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\bin\Debug\net5.0\Cinco-Inverter.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.csproj.AssemblyReference.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.AssemblyInfoInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.AssemblyInfo.cs
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.csproj.CoreCompileInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\ref\Cinco-Inverter.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\Cinco-Inverter\Cinco-Inverter\obj\Debug\net5.0\Cinco-Inverter.genruntimeconfig.cache

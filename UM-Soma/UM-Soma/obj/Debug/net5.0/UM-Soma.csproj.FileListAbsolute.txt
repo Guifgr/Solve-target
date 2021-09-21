@@ -1,0 +1,16 @@
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\UM-Soma.exe
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\UM-Soma.deps.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\UM-Soma.runtimeconfig.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\UM-Soma.runtimeconfig.dev.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\UM-Soma.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\ref\UM-Soma.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\bin\Debug\net5.0\UM-Soma.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.csproj.AssemblyReference.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.AssemblyInfoInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.AssemblyInfo.cs
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.csproj.CoreCompileInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\ref\UM-Soma.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\UM-Soma\UM-Soma\obj\Debug\net5.0\UM-Soma.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\Quatro-FaturamentoEstado.exe
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\Quatro-FaturamentoEstado.deps.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\Quatro-FaturamentoEstado.runtimeconfig.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\Quatro-FaturamentoEstado.runtimeconfig.dev.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\Quatro-FaturamentoEstado.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\ref\Quatro-FaturamentoEstado.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\bin\Debug\net5.0\Quatro-FaturamentoEstado.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.csproj.AssemblyReference.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.AssemblyInfoInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.AssemblyInfo.cs
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.csproj.CoreCompileInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\ref\Quatro-FaturamentoEstado.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\Quatro-FaturamentoEstado\Quatro-FaturamentoEstado\obj\Debug\net5.0\Quatro-FaturamentoEstado.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\DOIS-Fibonacci.exe
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\DOIS-Fibonacci.deps.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\DOIS-Fibonacci.runtimeconfig.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\DOIS-Fibonacci.runtimeconfig.dev.json
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\DOIS-Fibonacci.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\ref\DOIS-Fibonacci.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\bin\Debug\net5.0\DOIS-Fibonacci.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.csproj.AssemblyReference.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.AssemblyInfo.cs
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\ref\DOIS-Fibonacci.dll
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.pdb
+C:\Users\guifg\OneDrive\Documentos\GitHub\DOIS-Fibonacci\DOIS-Fibonacci\obj\Debug\net5.0\DOIS-Fibonacci.genruntimeconfig.cache
